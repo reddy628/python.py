@@ -127,4 +127,5 @@ for attempt in range(1, 6):
 
 ## Bonus Questions:
 
-* Q1. What operators are used to compare the guess to the secret? Comparison operators: == (equal to), < (less than), and > (great
+*Q1. What operators are used to compare the guess to the secret? Comparison operators: == (equal to), < (less than), and > (greater than).
+Q2. How do you track which attempt number the user is on? By setting the loop structure as range(1, 6), the loop counter variable automatically updates to hold values from 1 to 5.
